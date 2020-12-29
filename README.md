@@ -15,4 +15,6 @@ Here is the Colab Notebook for showing pre-trained YOLOv4 Object Detector on ove
 
 Here is the Colab Notebook for showing how to TRAIN CUSTOM YOLOv4 OBJECT DETECTOR: https://colab.research.google.com/drive/1_GdoqCJWXsChrOiY8sZMr_zbr_fH-0Fg?usp=sharing
 
+Here is the Colab Notebook for showing how to run YOLOv4 on Webcam Images and Video in real-time within Google Colab: https://colab.research.google.com/drive/1xdjyBiY75MAVRSjgmiqI7pbRLn58VrbE?usp=sharing
+
 Cheers!
